@@ -105,3 +105,6 @@ Identify the strength and direction of the relationship between each type of adv
 Determine which advertising medium has the most significant impact on sales.
 Build a predictive model that can be used to forecast sales based on different advertising budgets.
 The linear regression model helps in quantifying the contribution of each advertising channel to sales, providing valuable insights for optimizing marketing strategies.
+This project demonstrates a linear regression model to predict sales based on advertising budgets for TV, Radio, and Newspaper. The process begins with loading and exploring the dataset, followed by separating the features and target variable. After splitting the data into training and testing sets, a linear regression model is built and trained. The model's predictions are evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics, with Adjusted R-squared calculated for more accurate performance assessment. This project highlights the key steps in developing and evaluating a linear regression model in machine learning.
+
+
