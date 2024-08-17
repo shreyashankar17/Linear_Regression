@@ -63,10 +63,7 @@ Where:
 ​
  ,β 
 3
-​
-  are the coefficients for each independent variable,
-
-ϵ is the error term.
+are the coefficients for each independent variable, ϵ is the error term.
 Linear regression is widely used for predictive analysis, allowing us to understand the impact of different features on the target variable and to make predictions for new data.
 
 ## Project Overview
